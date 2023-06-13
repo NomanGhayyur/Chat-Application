@@ -104,7 +104,7 @@ The folder structure of the project is as follows:
 - The `src/` directory contains the application's JavaScript code and Firebase configuration.
 - The `components/` directory contains the reusable React components used in the application.
 - The `styles/` directory contains the styles for React components used in the application.
-- The `firebase.js` file initializes the Firebase app and exports the Firebase configuration.
+- The `firebase-config.js` file initializes the Firebase app and exports the Firebase configuration.
 - The `App.js` file is the root component of the application.
 - The `App.css` file contains the CSS styles for the application.
 - The `index.js` file is the entry point for the React application.
